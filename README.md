@@ -8,7 +8,7 @@ MERN stack baby...
 
 * 🖥️  See my portfolio at [Netlify](http://app.netlify.com/teams/klightiam/overview)
 * ✉️  You can contact me at [kingsleyasareankomah@gmail.com](mailto:kingsleyasareankomah@gmail.com)
-* 🧠  I'm learning Backend development with Expressjs and mongoose
+* 🧠  I'm learning Backend development with Expressjs and mongodb,postgresql
 * 🤝  I'm open to collaborating on any project that requires my stack
 
 ### Skills
