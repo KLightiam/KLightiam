@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)This is your boy Kingsley A. Asare
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I'm Kingsley A. Asare
 ======================================================================================================================================
 
 Web Developer/ fullstack
@@ -8,7 +8,7 @@ MERN/PERN stack baby...
 
 * 🖥️  See my portfolio at [Netlify](http://app.netlify.com/teams/klightiam/overview)
 * ✉️  You can contact me at [kingsleyasareankomah@gmail.com](mailto:kingsleyasareankomah@gmail.com)
-* 🧠  I'm learning Backend development with Expressjs and mongodb,postgresql
+* 🧠  Experienced in Backend development with Expressjs and mongodb,postgresql
 * 🤝  I'm open to collaborating on any project that requires my stack
 
 ### Skills
